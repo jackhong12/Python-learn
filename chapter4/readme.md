@@ -23,9 +23,6 @@ empty set set()
 # loop
 #### continue
 #### zip
-```
-    zip() stops when the shortest sequence is done. 
-```
 
 ## while
 #### else
